@@ -20,7 +20,7 @@ This Python script enables real-time video background removal using MediaPipe's 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Pi-31415/Realtime-Video-Background-Removal-Python.git
-cd video-background-removal
+cd Realtime-Video-Background-Removal-Python
 ```
 
 ### 2. Install Dependencies
