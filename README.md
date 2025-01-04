@@ -18,24 +18,24 @@ This Python script enables real-time video background removal using MediaPipe's 
 ## Setup
 
 ### 1. Clone the Repository
-\`\`\`bash
+```bash
 git clone https://github.com/your-username/video-background-removal.git
 cd video-background-removal
-\`\`\`
+```
 
 ### 2. Install Dependencies
 Install the required Python libraries using `pip`:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ### 3. Run the Script
 Launch the Python script:
 
-\`\`\`bash
+```bash
 python background_removal.py
-\`\`\`
+```
 
 ## Usage
 1. **Select Camera**: The script will list all available camera indexes. Choose the desired camera index.
